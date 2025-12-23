@@ -8,3 +8,4 @@ pillow
 requests
 matplotlib
 pandas
+beautifulsoup4
