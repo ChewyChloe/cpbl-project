@@ -1,6 +1,10 @@
 streamlit
-pandas
-plotly
-requests
-numpy
 google-generativeai
+plotly
+imbalanced-learn
+catboost
+streamlit-image-coordinates
+pillow
+requests
+matplotlib
+pandas
