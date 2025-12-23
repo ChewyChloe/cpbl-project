@@ -9,15 +9,6 @@ Original file is located at
 # 環境設定
 """
 
-!pip install -q -U google-genai
-!pip install plotly
-!pip install imbalanced-learn
-!pip install streamlit
-!pip install catboost
-!pip install pyngrok
-!pip install streamlit-image-coordinates pillow requests
-!pip install google-generativeai matplotlib pandas
-
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
