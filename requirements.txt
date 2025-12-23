@@ -11,3 +11,4 @@ pandas
 beautifulsoup4
 xgboost
 lightgbm
+scikit-learn
