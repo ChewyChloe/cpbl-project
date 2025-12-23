@@ -10,3 +10,4 @@ matplotlib
 pandas
 beautifulsoup4
 xgboost
+lightgbm
