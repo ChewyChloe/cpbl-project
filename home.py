@@ -31,7 +31,7 @@ from catboost import CatBoostRegressor
 from xgboost import XGBRegressor
 from lightgbm import LGBMRegressor
 
-from google import genai
+import google.generativeai as genai
 from google.colab import files, userdata
 from pyngrok import ngrok
 
